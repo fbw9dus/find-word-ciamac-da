@@ -1,0 +1,23 @@
+{
+  "name": "find-word-ciamac-da",
+  "version": "1.0.0",
+  "description": "Schreib ein Programm, das große Dateien nach einem Wort durchsuchen kann. Als Parameter soll das Programm ein Wort und einen Dateipfad annehmen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbw9dus/find-word-ciamac-da.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbw9dus/find-word-ciamac-da/issues"
+  },
+  "homepage": "https://github.com/fbw9dus/find-word-ciamac-da#readme",
+  "dependencies": {
+    "chunk": "0.0.2",
+    "express": "^4.17.1"
+  }
+}
